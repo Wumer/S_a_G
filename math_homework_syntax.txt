@@ -1,0 +1,88 @@
+Addition:
+	x plus y:
+		x + y
+
+Subtraction:
+	x minus y:
+		x - y
+
+    Addition:
+	x plus y minus z:
+		x + y - z
+
+Multiplication:
+	x multiplied by y:
+		x • y
+
+Division:
+	x divided by y:
+		x / y
+
+    Addition:
+	x plus y divided by z:
+		(x + y) / z
+
+Fractions:
+	x over y:
+		(x / y)
+
+    Addition:
+	x plus y over z:
+		(x + y) / z
+
+Roots:
+	Square root of x:
+		√(x)
+
+	xth root of y:
+		√{x}(y)
+
+    Addition:
+	xth root of y plus z:
+		√{x}(y + z)
+
+    Multiplication:
+	x multiplied by the square root of y:
+		x√(y)
+
+	x multiplied by the yth root of z:
+		x√{y}(z)
+
+Exponents:
+	x to the power of y:
+		x{y}
+
+    Addition:
+	x plus y to the power of z:
+		(x + y){z}
+
+	x to the power of y plus z:
+		x{y} + z
+
+    Subtraction:
+	x minus y to the power of z:
+		(x - y){z}
+
+    Multiplication:
+	x multiplied by y to the power of z:
+		(x • y){z}
+
+	x to the power of y multiplied by z:
+		x{y} • z
+
+	x multiplied by y, y to the power of z:
+		xy{z}
+
+    Division:
+	x divided by y to the power of z:
+		(x / y){z}
+
+	x to the power of z divided by y:
+		x{z} / y
+
+    Fractions:
+	x over y to the power of z:
+		(x / y){z}
+
+	x to the power of z over y:
+		(x{z} / y)
